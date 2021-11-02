@@ -29,9 +29,9 @@ import (
 
 	// Tip for Forkers: please 'clone' from my url and then 'pull' from your url. That way you wont need to change the import path.
 	// see https://groups.google.com/forum/?fromgroups=#!starred/golang-nuts/CY7o2aVNGZY
-	"github.com/laher/goxc/core"
-	"github.com/laher/goxc/tasks"
-	"github.com/laher/goxc/tasks/httpc"
+	"github.com/koenkooi/goxc/core"
+	"github.com/koenkooi/goxc/tasks"
+	"github.com/koenkooi/goxc/tasks/httpc"
 )
 
 func RunTaskPubGH(tp tasks.TaskParams) error {
