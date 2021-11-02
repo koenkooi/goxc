@@ -3,7 +3,7 @@ package config
 import (
 	"log"
 
-	"github.com/laher/goxc/typeutils"
+	"github.com/koenkooi/goxc/typeutils"
 )
 
 type BuildSettings struct {

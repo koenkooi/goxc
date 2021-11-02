@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/laher/goxc/platforms"
+	"github.com/koenkooi/goxc/platforms"
 )
 
 //I think plan9 uses a plain old a.out file format

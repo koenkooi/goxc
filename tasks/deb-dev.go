@@ -28,8 +28,8 @@ import (
 	"github.com/debber/debber-v0.3/debgen"
 	// Tip for Forkers: please 'clone' from my url and then 'pull' from your url. That way you wont need to change the import path.
 	// see https://groups.google.com/forum/?fromgroups=#!starred/golang-nuts/CY7o2aVNGZY
-	"github.com/laher/goxc/platforms"
-	"github.com/laher/goxc/typeutils"
+	"github.com/koenkooi/goxc/platforms"
+	"github.com/koenkooi/goxc/typeutils"
 )
 
 //runs automatically

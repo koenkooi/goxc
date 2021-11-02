@@ -21,7 +21,7 @@ import (
 	// see https://groups.google.com/forum/?fromgroups=#!starred/golang-nuts/CY7o2aVNGZY
 	"log"
 
-	"github.com/laher/goxc/executils"
+	"github.com/koenkooi/goxc/executils"
 )
 
 //runs automatically

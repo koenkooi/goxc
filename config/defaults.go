@@ -4,7 +4,7 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/laher/goxc/core"
+	"github.com/koenkooi/goxc/core"
 )
 
 func FillBuildSettingsDefaults(bs *BuildSettings) {

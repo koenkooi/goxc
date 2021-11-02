@@ -22,7 +22,7 @@ import (
 
 	// Tip for Forkers: please 'clone' from my url and then 'pull' from your url. That way you wont need to change the import path.
 	// see https://groups.google.com/forum/?fromgroups=#!starred/golang-nuts/CY7o2aVNGZY
-	"github.com/laher/goxc/executils"
+	"github.com/koenkooi/goxc/executils"
 )
 
 const TASK_TAG = "tag"

@@ -20,8 +20,8 @@ package config
 import (
 	"log"
 
-	"github.com/laher/goxc/core"
-	"github.com/laher/goxc/typeutils"
+	"github.com/koenkooi/goxc/core"
+	"github.com/koenkooi/goxc/typeutils"
 )
 
 /* 0.9: removed!

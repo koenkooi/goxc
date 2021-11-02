@@ -6,9 +6,9 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/laher/goxc/config"
-	"github.com/laher/goxc/core"
-	"github.com/laher/goxc/executils"
+	"github.com/koenkooi/goxc/config"
+	"github.com/koenkooi/goxc/core"
+	"github.com/koenkooi/goxc/executils"
 )
 
 const riceNotFound = `Could not find 'rice' executable on $PATH.
