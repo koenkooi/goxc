@@ -43,7 +43,7 @@
 			"short": true
 		},
 		"publish-github": {
-			"owner": "laher",
+			"owner": "koenkooi",
 			"prerelease": false,
 			"repository": "goxc"
 		},
