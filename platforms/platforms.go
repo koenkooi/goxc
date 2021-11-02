@@ -57,6 +57,7 @@ var (
 		Platform{LINUX, X86},
 		Platform{LINUX, AMD64},
 		Platform{LINUX, ARM},
+		Platform{LINUX, ARM64},
 		Platform{FREEBSD, X86},
 		Platform{FREEBSD, AMD64},
 		Platform{OPENBSD, X86},
