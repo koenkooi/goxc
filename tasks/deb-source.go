@@ -30,8 +30,8 @@ import (
 		"github.com/koenkooi/goxc/archive"
 		//"github.com/koenkooi/goxc/packaging/sdeb"
 	*/
-	"github.com/debber/debber-v0.3/deb"
-	"github.com/debber/debber-v0.3/debgen"
+	"github.com/koenkooi/debber-v0.3/deb"
+	"github.com/koenkooi/debber-v0.3/debgen"
 	"github.com/koenkooi/goxc/platforms"
 	"github.com/koenkooi/goxc/typeutils"
 	//	"io"
